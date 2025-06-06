@@ -51,9 +51,10 @@ To demonstrate the use of unsupervised learning techniques for clustering simila
 
 ## 🖼️ Screenshots
 
-| Elbow Plot | PCA Cluster Plot |
-|------------|------------------|
-| ![elbow](outputs/elbow_plot.png) | ![cluster](outputs/pca_2d_clusters.png) |
+![Uploading image.png…]()
+![Uploading image.png…]()
+
+
 
 ---
 
