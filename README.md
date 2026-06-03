@@ -1,4 +1,3 @@
-<img width="636" height="468" alt="image" src="https://github.com/user-attachments/assets/54b11793-889f-4102-b504-4f1534a50d11" /># 🧠 K-Means Clustering - Customer Segmentation
 
 This project applies **K-Means Clustering** to segment customers based on spending behavior using the **Mall Customer Segmentation Dataset**.
 
